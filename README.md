@@ -14,4 +14,4 @@ The dataset reveals that a small handful of microbial species (also called opera
 ![Screenshot 2023-02-11 at 3 24 16 PM](https://user-images.githubusercontent.com/106120403/218279662-d2e198c2-341b-4691-9205-522ddeeea760.png)
 
 ### A Layout of my dashboard
-![my dashboard layout](https://oseremhen.github.io/belly-button-challenge.github.io/)
+![https://oseremhen.github.io/belly-button-challenge.github.io/]
